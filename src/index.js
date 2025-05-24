@@ -9,6 +9,7 @@
 // @homepage     https://github.com/devasher-ca/twitter-bulk-unfollow
 // @supportURL   https://github.com/devasher-ca/twitter-bulk-unfollow/issues
 // @grant        none
+// @esversion    8
 // ==/UserScript==
 
 ;(function () {
